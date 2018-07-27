@@ -2,7 +2,7 @@
 Merge Sort Tree in C++/Python
 
 ## Introduction
-This is a C++ library with Python bindings for Merge Sort Tree.
+This is a C++ library with Python bindings for Merge Sort Tree. I was searching for a <br /> python binding but I couldn't find one, so might as well create it.
 
 ## Prequisites
 This should works for both Python 2 and Python 3
