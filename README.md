@@ -20,6 +20,6 @@ To install, please clone the repository and run ``python setup.py install``
 
 ## API
 * ``MergeSortTree()`` return a new merge sort tree.
-* ``a.build()`` take in an integer array which you want to build the merge sort tree on.
-* ``aa.range_query(x,y,k)`` return the number of elements in range x to y which is smaller or equal to k.
+* ``a.build(vector)`` take in an list of ints which you want to build the merge sort tree on.
+* ``aa.range_query(x,y,k)`` return the number of elements in range x to y which is smaller or equal to k. x,y,k are all ints.
 
