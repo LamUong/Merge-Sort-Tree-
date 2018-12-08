@@ -62,7 +62,7 @@ class mergeSortTree
     }
     void build(vector<int> arr)
     {
-      cout << "The tree is being made "<< "\n";
+//       cout << "The tree is being made "<< "\n";
       A=arr;
       tree.clear();
       tree.resize(A.size()*4);
@@ -70,10 +70,10 @@ class mergeSortTree
     }
     mergeSortTree()
     {
-      cout << "The object is going to be constructed "<< "\n";
+//       cout << "The object is going to be constructed "<< "\n";
     }
     ~mergeSortTree() {
-      std::cout << "The object is going to be deallocated.\n";
+//       std::cout << "The object is going to be deallocated.\n";
     }
 };
 
